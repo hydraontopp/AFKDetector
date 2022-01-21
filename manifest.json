@@ -1,0 +1,31 @@
+//MADE BY SAM, YT: Sammster 10, XBOX: Sammster 10 YT, DISCORD: Sam.#9999, DISCORD SERVER: discord.gg/9S6K9E5
+{
+	"format_version": 2,
+	"header": {
+		"name": "§7AFK Detector §3BEP",
+		"description": "§aMade By Sam §9Discord §f[ Sam#9999 ]",
+		"uuid": "ad49125d-f043-4528-8f69-0fe93cf7e1b3",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "f92446e6-97fa-4905-be01-2f2064a7e0ea",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
+//MADE BY SAM, YT: Sammster 10, XBOX: Sammster 10 YT, DISCORD: Sam.#9999, DISCORD SERVER: discord.gg/9S6K9E5
